@@ -16,7 +16,7 @@ C1_TEMP_PATH = "mapper.heater_mappings_bftc.device.c1.temperature"
 HEATER_PATH = "mapper.bflegacy.boolean.heater"
 
 # Temperature threshold
-TEMP_LIMIT_K = 300.0
+TEMP_LIMIT_K = 38.2 
 
 # Timing
 CHECK_INTERVAL_S = 10
