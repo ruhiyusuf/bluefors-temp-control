@@ -1,0 +1,11 @@
+[2026-04-15 18:18:54] Shutdown script started
+[2026-04-15 18:18:54] Failed to read C1: could not convert string to float: ''
+[2026-04-15 18:18:54] C2 temperature = 294.812865
+[2026-04-15 18:18:54] Failed to read C5: could not convert string to float: ''
+[2026-04-15 18:18:54] Failed to read C6: could not convert string to float: ''
+[2026-04-15 18:18:54] Heater state before = 1
+[2026-04-15 18:18:54] Heater is ON
+[2026-04-15 18:18:54] Sending heater OFF command to mapper.bflegacy.boolean.heater
+[2026-04-15 18:18:56] Heater after command = 0
+[2026-04-15 18:18:56] CSV saved
+[2026-04-15 18:18:56] Shutdown script finished

@@ -1,0 +1,11 @@
+[2026-04-15 17:51:40] Shutdown script started
+[2026-04-15 17:51:40] C1 temperature = 295.34053
+[2026-04-15 17:51:40] C2 temperature = 294.812865
+[2026-04-15 17:51:40] C5 temperature = 294.802872
+[2026-04-15 17:51:40] C6 temperature = nan
+[2026-04-15 17:51:40] Heater state before = 1
+[2026-04-15 17:51:40] Heater is ON
+[2026-04-15 17:51:40] Sending heater OFF command to mapper.bflegacy.boolean.heater
+[2026-04-15 17:51:42] Heater after command = 0
+[2026-04-15 17:51:42] CSV saved
+[2026-04-15 17:51:42] Shutdown script finished

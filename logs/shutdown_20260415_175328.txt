@@ -1,0 +1,9 @@
+[2026-04-15 17:53:28] Shutdown script started
+[2026-04-15 17:53:28] Failed to read C1: could not convert string to float: ''
+[2026-04-15 17:53:28] Failed to read C2: could not convert string to float: ''
+[2026-04-15 17:53:28] Failed to read C5: could not convert string to float: ''
+[2026-04-15 17:53:28] Failed to read C6: could not convert string to float: ''
+[2026-04-15 17:53:28] Heater state before = 
+[2026-04-15 17:53:28] Heater already OFF
+[2026-04-15 17:53:28] CSV saved
+[2026-04-15 17:53:28] Shutdown script finished
